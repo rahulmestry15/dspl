@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DSPL</string>
+    <string name="searchHint">searchHint</string>
+    <string name="lorem">lorem</string>
+    <string name="dashboard">Task Dashboard</string>
+    <string name="title">Finds Your Favorits Here!!</string>
+    <string name="help_title"><![CDATA[Hey <b>%s</b>\uD83D\uDC4B <br>How can we help?]]></string>
+
+</resources>
